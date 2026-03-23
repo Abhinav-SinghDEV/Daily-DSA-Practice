@@ -13,6 +13,7 @@ The goal is to **solve at least one problem every day** to improve problem-solvi
 * Master **Data Structures and Algorithms**
 * Prepare for **coding interviews**
 * Maintain a **consistent coding habit**
+* Solve Competitive Programming Problems 
 
 ---
 
