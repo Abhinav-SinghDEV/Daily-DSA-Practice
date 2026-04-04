@@ -80,9 +80,10 @@ Even solving **one problem every day** leads to significant improvement over tim
 
 ## 📈 Goal
 
-✔ Solve **300+ DSA problems**
-✔ Strengthen **algorithmic thinking**
+✔ Solve as more problems as I can 
+✔ Strengthen **algorithmic thinking and probelm solving skills**
 ✔ Prepare for **technical interviews**
+
 
 ---
 
