@@ -80,9 +80,10 @@ Even solving **one problem every day** leads to significant improvement over tim
 
 ## 📈 Goal
 
-✔ Solve as more problems as I can 
+✔ Solve as more problems as I can on the daily basis
 ✔ Strengthen **algorithmic thinking and probelm solving skills**
-✔ Prepare for **technical interviews**
+✔ Prepare for **technical interviews **
+
 
 
 ---
