@@ -9,5 +9,6 @@ public:
             n=n/10;
         }
         return abs(org-rev);
+        
     }
 };
