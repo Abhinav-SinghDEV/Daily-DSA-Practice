@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<long long> distance(vector<int>& nums) {
+   vector<long long> distance(vector<int>& nums) {
         int n = nums.size();
         vector<long long> ans(n, 0);
 
@@ -25,8 +25,6 @@ public:
 
             for(int i = 0; i < m; i++){
                 long long left = 0, right = 0;
-
-                // left side
                 if(i > 0){
                     left = (long long)i * v[i] - prefix[i-1];
                 }
