@@ -32,16 +32,6 @@ The goal is to **solve at least one problem every day** to improve problem-solvi
 
 ---
 
-## 📅 Progress Tracker
-
-| Day   | Problem           | Topic         |
-| ----- | ----------------- | ------------- |
-| Day 1 | Two Sum           | Arrays        |
-| Day 2 | Binary Search     | Binary Search |
-| Day 3 | Linked List Cycle | Linked List   |
-
-*(Table will be updated as I solve more problems)*
-
 ---
 
 ## 🛠 Languages Used
