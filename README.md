@@ -85,6 +85,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0301-remove-invalid-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 ## Backtracking
 |  |
@@ -94,4 +95,12 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
