@@ -79,3 +79,19 @@ Even solving **one problem every day** leads to significant improvement over tim
 ---
 
 ⭐ If you find this repository helpful, feel free to **star it**.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
+<!---LeetCode Topics End-->
