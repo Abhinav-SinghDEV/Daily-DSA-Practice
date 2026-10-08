@@ -88,6 +88,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0224-basic-calculator](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0224-basic-calculator) |
 | [0301-remove-invalid-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -112,8 +113,13 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0224-basic-calculator) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0224-basic-calculator) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
