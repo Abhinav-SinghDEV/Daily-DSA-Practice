@@ -89,6 +89,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [0224-basic-calculator](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0224-basic-calculator) |
 | [0301-remove-invalid-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | ------- |
 | [0224-basic-calculator](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0224-basic-calculator) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Recursion
 |  |
 | ------- |
@@ -122,4 +124,9 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Greedy
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
