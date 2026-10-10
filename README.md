@@ -129,4 +129,21 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Array
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
