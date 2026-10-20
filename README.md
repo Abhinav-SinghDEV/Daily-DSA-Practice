@@ -199,4 +199,8 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Database
+|  |
+| ------- |
+| [1164-product-price-at-a-given-date](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1164-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
