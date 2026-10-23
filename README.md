@@ -143,6 +143,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -209,4 +210,8 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1907-count-salary-categories](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1978-employees-whose-manager-left-the-company) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
