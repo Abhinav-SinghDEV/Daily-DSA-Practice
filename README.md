@@ -102,6 +102,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 ## Array
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -183,6 +185,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -218,4 +221,12 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
