@@ -219,6 +219,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0585-investments-in-2016) |
