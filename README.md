@@ -92,6 +92,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [1021-remove-outermost-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
@@ -150,6 +151,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -177,6 +179,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,6 +189,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -230,16 +234,26 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
