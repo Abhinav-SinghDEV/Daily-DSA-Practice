@@ -222,6 +222,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1341-movie-rating) |
+| [1667-fix-names-in-a-table](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1667-fix-names-in-a-table) |
 | [1907-count-salary-categories](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Bit Manipulation
