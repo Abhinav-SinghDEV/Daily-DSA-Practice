@@ -228,6 +228,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [1164-product-price-at-a-given-date](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1527-patients-with-a-condition) |
