@@ -152,6 +152,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
@@ -186,6 +187,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
@@ -255,6 +257,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Indexed Tree
 |  |
