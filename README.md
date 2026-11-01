@@ -119,6 +119,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | ------- |
 | [0224-basic-calculator](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0282-expression-add-operators) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
@@ -145,6 +146,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
