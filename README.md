@@ -110,10 +110,12 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
@@ -155,6 +158,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3665-twisted-mirror-path-count) |
@@ -179,6 +183,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
@@ -194,6 +199,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
