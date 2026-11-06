@@ -110,11 +110,13 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2747-count-zero-request-servers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2747-count-zero-request-servers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
@@ -158,6 +160,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -181,6 +184,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
