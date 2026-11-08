@@ -105,6 +105,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
@@ -156,6 +157,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1882-process-tasks-using-servers) |
@@ -220,6 +222,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -272,12 +275,14 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -301,4 +306,8 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
