@@ -154,6 +154,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
@@ -286,6 +287,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -318,6 +320,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Ordered Set
 |  |
