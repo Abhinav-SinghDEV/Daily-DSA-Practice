@@ -118,6 +118,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2747-count-zero-request-servers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
@@ -137,6 +138,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [0224-basic-calculator](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0224-basic-calculator) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -168,6 +170,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [2747-count-zero-request-servers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -300,6 +303,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
@@ -326,4 +330,16 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
