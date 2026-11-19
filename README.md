@@ -158,6 +158,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Array
 |  |
 | ------- |
@@ -173,6 +174,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [1882-process-tasks-using-servers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -201,6 +203,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
