@@ -118,6 +118,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [2747-count-zero-request-servers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -202,6 +204,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -380,4 +383,16 @@ Even solving **one problem every day** leads to significant improvement over tim
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
