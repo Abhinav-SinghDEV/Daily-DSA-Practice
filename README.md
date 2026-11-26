@@ -139,6 +139,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
@@ -354,6 +355,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [0059-spiral-matrix-ii](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3360-stone-removal-game) |
 ## Ordered Set
 |  |
 | ------- |
