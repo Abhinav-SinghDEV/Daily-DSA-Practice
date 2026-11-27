@@ -165,6 +165,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Array
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [3886-sum-of-sortable-integers](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3934-smallest-unique-subarray](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Even solving **one problem every day** leads to significant improvement over tim
 | [3665-twisted-mirror-path-count](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Tree
 |  |
 | ------- |
